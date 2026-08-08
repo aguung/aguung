@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Agung Subastian</h1>
-<h3 align="center">Software Engineer · Mobile & Backend</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&height=55&lines=Software+Engineer;Android+%26+Flutter+Developer;Go+%2F+Ruby+on+Rails+Backend;Turning+ideas+into+products+that+ship" alt="Roles" />
+</div>
 
 <p align="center">
   Building Android &amp; Flutter apps and Go / Ruby on Rails backends.
@@ -7,8 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/aguung?tab=followers">
-    <img src="https://img.shields.io/github/followers/aguung?label=Followers&style=flat-square&logo=github&color=181717" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/aguung?label=Followers&style=flat-square&logo=github&color=7F52FF" alt="Followers" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=aguung&label=Profile%20views&color=7F52FF&style=flat-square" alt="Profile views" />
 </p>
 
 <h3 align="center">🛠️ Tech Stack</h3>
@@ -29,7 +33,17 @@
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,go,rails,ruby,ts,rust,postgres,docker,git,linux" alt="Toolbelt" />
 </p>
 
-<h3 align="center">📊 GitHub Activity</h3>
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=aguung&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aguung&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
+</div>
+
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
   <picture>
